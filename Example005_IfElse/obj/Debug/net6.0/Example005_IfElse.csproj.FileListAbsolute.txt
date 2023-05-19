@@ -1,0 +1,15 @@
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/bin/Debug/net6.0/ref/Example005_IfElse.dll
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/home/vitozb/Видео/GB/C#/Lesson1/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
