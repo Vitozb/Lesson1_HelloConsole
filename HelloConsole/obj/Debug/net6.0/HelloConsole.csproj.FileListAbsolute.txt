@@ -1,0 +1,15 @@
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.deps.json
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.runtimeconfig.json
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.dll
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/bin/Debug/net6.0/ref/HelloConsole.dll
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.pdb
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.AssemblyReference.cache
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfoInputs.cache
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfo.cs
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.CoreCompileInputs.cache
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.dll
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/ref/HelloConsole.dll
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.pdb
+/home/vitozb/Видео/GB/C#/Lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.genruntimeconfig.cache
